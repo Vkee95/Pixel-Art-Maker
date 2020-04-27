@@ -21,6 +21,7 @@ sizing.addEventListener('submit', function(event){
 });
 
 function makeGrid(height, width) {
+  //(Recieved mentor help) Use to reset grid when 'submit' is clicked again
   canvas.innerHTML = null;
   //make grid rows
   for(r = 0; r < height; r++){
