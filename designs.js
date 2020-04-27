@@ -30,4 +30,4 @@ function makeGrid(height, width) {
 };
 
 //Things to Fix Today!
-//Delete old canvas is new sizing values supplied
+//Delete old canvas if new sizing values supplied
